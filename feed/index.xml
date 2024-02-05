@@ -9,10 +9,10 @@
 
 <channel>
 	<title>Greg Hall Enterprises</title>
-	<atom:link href="https://ldavis09.github.io/GH2/feed/" rel="self" type="application/rss+xml" />
-	<link>https://ldavis09.github.io/GH2/</link>
+	<atom:link href="https://ldavis09.github.io/Greg-Hall/feed/" rel="self" type="application/rss+xml" />
+	<link>https://ldavis09.github.io/Greg-Hall/</link>
 	<description>Precast Concrete Painting and Staining</description>
-	<lastBuildDate>Mon, 05 Feb 2024 01:48:00 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 05 Feb 2024 04:32:18 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -21,9 +21,9 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
-	<url>https://ldavis09.github.io/GH2/wp-content/uploads/cropped-Final-GH-32x32.png</url>
+	<url>https://ldavis09.github.io/Greg-Hall/wp-content/uploads/cropped-Final-GH-32x32.png</url>
 	<title>Greg Hall Enterprises</title>
-	<link>https://ldavis09.github.io/GH2/</link>
+	<link>https://ldavis09.github.io/Greg-Hall/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
