@@ -1,17 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://ldavis09.github.io/Greg-Hall/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://ldavis09.github.io/GH2/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://ldavis09.github.io/Greg-Hall/</loc>
+		<loc>https://ldavis09.github.io/GH2/</loc>
 		<lastmod>2024-02-05T01:48:00+00:00</lastmod>
 		<image:image>
-			<image:loc>https://ldavis09.github.io/Greg-Hall/wp-content/uploads/IMG_9480-rotated.jpeg</image:loc>
+			<image:loc>https://ldavis09.github.io/GH2/wp-content/uploads/IMG_9480-rotated.jpeg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://ldavis09.github.io/Greg-Hall/quote/</loc>
+		<loc>https://ldavis09.github.io/GH2/quote/</loc>
 		<lastmod>2024-02-05T00:13:48+00:00</lastmod>
 		<image:image>
-			<image:loc>https://ldavis09.github.io/Greg-Hall/wp-content/uploads/cropped-Final-GH.png</image:loc>
+			<image:loc>https://ldavis09.github.io/GH2/wp-content/uploads/cropped-Final-GH.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
